@@ -1,0 +1,4 @@
+export const GET_NEXT_PAGE = "GET_NEXT_PAGE";
+export const LOADING = "LOADING";
+export const SUCCESSFULLY_LOADED = "SUCCESSFULLY_LOADED";
+export const FAILED_LOADING = "FAILED_LOADING";

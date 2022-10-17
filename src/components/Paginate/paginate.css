@@ -1,0 +1,13 @@
+.paginate {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.previous{
+    margin: 10px;
+}
+
+.next{
+    margin: 10px;
+}
